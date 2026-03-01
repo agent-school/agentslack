@@ -41,13 +41,15 @@ story_location: /home/alex/projects/agentslack/_bmad-output/implementation-artif
 
 development_status:
   epic-1: backlog
-  1-1-backend-starter-and-core-module-scaffold: backlog
+  1-1-initialize-core-orchestration-service: backlog
   1-2-trigger-run-from-discord-with-workspace-mapping: backlog
-  1-3-submit-goal-and-decompose-into-tasks: backlog
-  1-4-execute-queue-and-post-discord-status-updates: backlog
+  1-3-submit-goal-and-generate-dependency-aware-task-plan: backlog
+  1-4-execute-parallel-tasks-and-publish-discord-status: backlog
   epic-1-retrospective: optional
 
   epic-2: backlog
-  2-1-expose-api-run-status-and-task-list: backlog
-  2-2-minimal-failure-visibility-and-retry-rerun: backlog
+  2-1-expose-workspace-scoped-run-status-api: backlog
+  2-2-provide-minimal-run-controls-and-failure-diagnostics: backlog
+  2-3-support-conflict-handling-and-partial-rerun: backlog
+  2-4-establish-minimal-role-tenancy-and-commercial-boundary-baseline: backlog
   epic-2-retrospective: optional
