@@ -1,0 +1,11 @@
+# Cursor Changes Log
+
+## 2025-03-01 — README & TODO
+
+**Prior state:** Minimal README ("Building a slack where humans and agents can collaborate effectively"); no TODO tracking.
+
+**Changes:**
+- **README.md** — Expanded with project overview, ZeroClaw architecture, key features table, team/ownership matrix, and license reference.
+- **TODO.md** — New file with checkboxes for all tasks grouped by: Team/Setup, Individual/Software Features, From Goal to Tasks, AI Features, Guardrails, Testing. Includes owner names and "In Progress" for Jack's agent collaboration work.
+
+**Effect:** Project has clear onboarding docs and a single source of truth for task tracking.
